@@ -1,0 +1,12 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test from package a.\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
